@@ -19,19 +19,6 @@ int main() {
     for(i=0;i<T;i++){
         cout<<s[i]<<endl;
     }
-	// for(int i=0;i<T;i++){
-    //     pos=0;
-	//     pos=s[i].find("not");
-	//     if(pos>0){
-	//         o[i]="Real Fancy";
-	//     }
-	//     else{
-	//         o[i]="regularly fancy";
-	//     }
-	    
-	// }
-	// for(int i=0;i<T;i++){
-	//     cout<<o[i]<<"\n";
-	// }
+
 	return 0;
 }
